@@ -1,0 +1,15 @@
+Q3:
+SN-UM6P-001 Zeiss X1
+SN-UM6P-002 Fluke T1
+SN-UM6P-004 Zeiss X1
+SN-UM6P-005 Zeiss X2
+SN-UM6P-006 Zeiss X1
+SN-UM6P-007 Zeiss X1
+SN-UM6P-008 Fluke T1
+SN-UM6P-009 Zeiss X2
+q4
+('Physics Laboratory', 1, 'Lens Wipes', 2, 'Boxes', Decimal('5.00'), Decimal('3.00'), 2, datetime.date(2023, 1, 1), 'LOW')
+Q5:
+80.00
+Q6:
+the error: Required certification missing or expired
